@@ -1,0 +1,119 @@
+{
+  "Background": [{
+    "R": 255,
+    "B": 255,
+    "G": 255
+  }],
+  "SongName": "C:\\Users\\angel\\Desktop\\FinalHerramientas\\AudioEditor\\data\\Eury.mp3",
+  "Level": [
+    {
+      "Shape": 1,
+      "Position": 40,
+      "Size": 10,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 50,
+      "Time": 1000
+    },
+    {
+      "Shape": 1,
+      "Position": 190,
+      "Size": 10,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 0,
+      "Time": 0
+    },
+    {
+      "Shape": 1,
+      "Position": 240,
+      "Size": 10,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 150,
+      "Time": 8193.943359375
+    },
+    {
+      "Shape": 1,
+      "Position": 90,
+      "Size": 10,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 250,
+      "Time": 10193.943359375
+    },
+    {
+      "Shape": 1,
+      "Position": 40,
+      "Size": 10,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 350,
+      "Time": 12193.943359375
+    },
+    {
+      "Shape": 1,
+      "Position": 240,
+      "Size": 10,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 500,
+      "Time": 15193.943359375
+    },
+    {
+      "Shape": 1,
+      "Position": 90,
+      "Size": 10,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 200,
+      "Time": 56805.08984375
+    },
+    {
+      "Shape": 1,
+      "Position": 240,
+      "Size": 10,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 350,
+      "Time": 59805.08984375
+    },
+    {
+      "Shape": 1,
+      "Position": 90,
+      "Size": 10,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 500,
+      "Time": 62805.08984375
+    }
+  ],
+  "Lenght": 60
+}

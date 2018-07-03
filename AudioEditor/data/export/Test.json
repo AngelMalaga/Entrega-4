@@ -1,0 +1,203 @@
+{
+  "Background": [{
+    "R": 255,
+    "B": 255,
+    "G": 255
+  }],
+  "SongName": "Viva la vida",
+  "Level": [
+    {
+      "Shape": 2,
+      "Position": 90,
+      "Size": 10,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 0,
+      "Time": 0
+    },
+    {
+      "Shape": 2,
+      "Position": 90,
+      "Size": 10,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 50,
+      "Time": 1000
+    },
+    {
+      "Shape": 2,
+      "Position": 90,
+      "Size": 10,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 100,
+      "Time": 2000
+    },
+    {
+      "Shape": 2,
+      "Position": 90,
+      "Size": 10,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 150,
+      "Time": 3000
+    },
+    {
+      "Shape": 2,
+      "Position": 90,
+      "Size": 10,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 200,
+      "Time": 4000
+    },
+    {
+      "Shape": 2,
+      "Position": 140,
+      "Size": 10,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 100,
+      "Time": 95164
+    },
+    {
+      "Shape": 2,
+      "Position": 140,
+      "Size": 14,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 150,
+      "Time": 96164
+    },
+    {
+      "Shape": 2,
+      "Position": 190,
+      "Size": 10,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 50,
+      "Time": 94164
+    },
+    {
+      "Shape": 2,
+      "Position": 140,
+      "Size": 29,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 300,
+      "Time": 99164
+    },
+    {
+      "Shape": 2,
+      "Position": 40,
+      "Size": 35,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 400,
+      "Time": 101164
+    },
+    {
+      "Shape": 2,
+      "Position": 40,
+      "Size": 35,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 400,
+      "Time": 101164
+    },
+    {
+      "Shape": 2,
+      "Position": 40,
+      "Size": 35,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 350,
+      "Time": 100164
+    },
+    {
+      "Shape": 2,
+      "Position": 140,
+      "Size": 17,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 450,
+      "Time": 102164
+    },
+    {
+      "Shape": 2,
+      "Position": 240,
+      "Size": 17,
+      "Color": [{
+        "R": 0,
+        "B": 0,
+        "G": 0
+      }],
+      "x": 50,
+      "Time": 94164
+    },
+    {
+      "Shape": 2,
+      "Position": 240,
+      "Size": 17,
+      "Color": [{
+        "R": 0,
+        "B": 60,
+        "G": 122
+      }],
+      "x": 150,
+      "Time": 96164
+    },
+    {
+      "Shape": 2,
+      "Position": 190,
+      "Size": 17,
+      "Color": [{
+        "R": 0,
+        "B": 60,
+        "G": 122
+      }],
+      "x": 150,
+      "Time": 96164
+    }
+  ],
+  "Lenght": 60
+}
