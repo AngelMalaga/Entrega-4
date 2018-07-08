@@ -2,9 +2,9 @@
 La herramienta actualmente puede cargar archivos de audio para que en base a este se pueda crear el nivel del juego, tambien puede exportar los niveles ya creados  para ser utilizados, el archivo generado en formato JSON puede ser cargado por la herramienta para su posterior edicion.
 # Botones
 
-Cargar archivo - Permite cargar los niveles exportardos con extencion JSON.
+Cargar archivo - Permite cargar los niveles exportados con extension JSON.
 
-Exportar archivo - Permite exportar los nives ya creados en la herramienta.
+Exportar archivo - Permite exportar los niveles ya creados en la herramienta.
 
 Cargar mp3 - Permite cargar los arhivos de audio en la herramienta, no menores a 15 segundos. 
 
